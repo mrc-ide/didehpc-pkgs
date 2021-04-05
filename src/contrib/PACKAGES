@@ -16,3 +16,12 @@ Suggests: callr, knitr, mockery, parallel, redux, rmarkdown, testthat,
 License: MIT + file LICENSE
 MD5sum: 0ffe3d04e660de225756ae04991e6179
 NeedsCompilation: no
+
+Package: queuer
+Version: 0.2.0
+Depends: R (>= 3.2.2)
+Imports: R6, context (>= 0.3.0), ids, lazyeval, progress (>= 1.1.1)
+Suggests: processx, storr, testthat, thor
+License: MIT + file LICENSE
+MD5sum: 43eb1157df749a9dbd232c14eed696a6
+NeedsCompilation: no
