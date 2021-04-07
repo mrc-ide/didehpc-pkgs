@@ -51,5 +51,5 @@ Version: 0.2.18
 Imports: R6, docopt, ids, progress, redux (>= 1.0.0)
 Suggests: callr, heartbeatr, storr, testthat
 License: MIT + file LICENSE
-MD5sum: 38298eecee6acde3df1ed4dbe80e5e29
+MD5sum: 98ade0c5cd4b61a5045f13a20b1f3eab
 NeedsCompilation: no
