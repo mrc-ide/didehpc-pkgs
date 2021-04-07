@@ -20,12 +20,12 @@ Package: didehpc
 Version: 0.3.0
 Depends: R (>= 3.2.2)
 Imports: conan, crayon, context (>= 0.3.0), getPass, glue, httr (>=
-        1.0.0), ids, jsonlite (>= 1.6), progress, queuer (>= 0.2.0),
-        rematch, storr (>= 1.1.1), xml2 (>= 1.0.0)
-Suggests: ape, drat, knitr, redux, rmarkdown, rrq (>= 0.1.0), testthat,
-        withr
+        1.0.0), ids, jsonlite (>= 1.6), queuer (>= 0.3.0), rematch,
+        storr (>= 1.1.1), xml2 (>= 1.0.0)
+Suggests: ape, callr, knitr, mockery, pkgdepends, redux, rmarkdown, rrq
+        (>= 0.2.18), testthat, withr
 License: MIT + file LICENSE
-MD5sum: 8c11ef2cb78ef87ba6b7e915cee03b26
+MD5sum: 31b77f795c70b20adbd76dd4fbbfba3b
 NeedsCompilation: no
 
 Package: queuer
