@@ -1,10 +1,9 @@
 Package: conan
 Version: 0.1.0
-Imports: jsonlite
 Suggests: callr, docopt, mockery, pkgcache, pkgdepends (>= 0.1.0),
-        testthat, withr
+        progress, testthat, withr
 License: MIT + file LICENSE
-MD5sum: ca2f1888db58000b26e3b8e4a22a1bde
+MD5sum: 2d95c8edf15f4e88c77f4bfd26975508
 NeedsCompilation: no
 
 Package: context
