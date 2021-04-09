@@ -53,3 +53,11 @@ Suggests: callr, heartbeatr, storr, testthat
 License: MIT + file LICENSE
 MD5sum: 98ade0c5cd4b61a5045f13a20b1f3eab
 NeedsCompilation: no
+
+Package: rrq
+Version: 0.2.19
+Imports: R6, docopt, ids, progress, redux (>= 1.0.0)
+Suggests: callr, heartbeatr, storr, testthat
+License: MIT + file LICENSE
+MD5sum: b89c00830b0e4862c5e27c76b7d93f61
+NeedsCompilation: no
