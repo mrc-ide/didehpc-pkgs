@@ -3,7 +3,7 @@ Version: 0.1.0
 Suggests: callr, docopt, mockery, pkgcache, pkgdepends (>= 0.1.0),
         progress, testthat, withr
 License: MIT + file LICENSE
-MD5sum: 8d8c46852058189d77dea26ec0d7f07f
+MD5sum: e65342adf81e7c337c17cf6e5a19ee62
 NeedsCompilation: no
 
 Package: context
