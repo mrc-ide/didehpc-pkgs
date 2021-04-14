@@ -23,9 +23,9 @@ Imports: conan, crayon, context (>= 0.3.0), getPass, glue, httr (>=
         1.0.0), ids, jsonlite (>= 1.6), queuer (>= 0.3.0), rematch,
         storr (>= 1.1.1), xml2 (>= 1.0.0)
 Suggests: R6, callr, knitr, mockery, pkgdepends (>= 0.1.0), redux,
-        rmarkdown, rrq (>= 0.2.18), testthat, withr
+        rmarkdown, rrq (>= 0.2.19), testthat, withr
 License: MIT + file LICENSE
-MD5sum: 87b85972f40850506ea717dd34f954fb
+MD5sum: 36d73d3bda6668ab4ac703c9c49a995d
 NeedsCompilation: no
 
 Package: queuer
