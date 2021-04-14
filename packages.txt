@@ -1,5 +1,5 @@
-mrc-ide/context@mrc-2273
-mrc-ide/conan@prototype
+mrc-ide/context
+mrc-ide/conan
 mrc-ide/queuer@mrc-2280
 mrc-ide/didehpc@mrc-2281
 mrc-ide/rrq
