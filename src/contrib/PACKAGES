@@ -13,7 +13,7 @@ Imports: crayon, ids, storr (>= 1.1.1)
 Suggests: callr, knitr, mockery, parallel, redux, rmarkdown, testthat,
         withr
 License: MIT + file LICENSE
-MD5sum: f8777e60b340d3567961b710145031aa
+MD5sum: 742834eaf76b6547ab586385cb139fe0
 NeedsCompilation: no
 
 Package: didehpc
