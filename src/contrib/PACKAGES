@@ -25,7 +25,7 @@ Imports: conan, crayon, context (>= 0.3.0), getPass, glue, httr (>=
 Suggests: R6, callr, knitr, mockery, pkgdepends (>= 0.1.0), redux,
         rmarkdown, rrq (>= 0.2.19), testthat, withr
 License: MIT + file LICENSE
-MD5sum: 36d73d3bda6668ab4ac703c9c49a995d
+MD5sum: fb0950dc26a45d05bafb4ea24e8358c6
 NeedsCompilation: no
 
 Package: queuer
