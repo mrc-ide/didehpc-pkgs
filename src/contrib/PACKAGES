@@ -75,7 +75,7 @@ Depends: R (>= 3.2.2)
 Imports: R6, context (>= 0.3.0), ids, lazyeval, progress (>= 1.1.1)
 Suggests: callr, storr, testthat, thor
 License: MIT + file LICENSE
-MD5sum: 76f1f235e8c75b85a1d7d274bd9fc1cc
+MD5sum: 5b77a634e8517f479e55cc6d1462b094
 NeedsCompilation: no
 
 Package: rrq
