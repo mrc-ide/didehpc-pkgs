@@ -72,6 +72,18 @@ License: MIT + file LICENSE
 MD5sum: b5d8e42d4dc8bc3a5fd8dc6d605627bd
 NeedsCompilation: no
 
+Package: didehpc
+Version: 0.3.5
+Depends: R (>= 3.2.2)
+Imports: conan (>= 0.1.1), crayon, context (>= 0.3.0), getPass, glue,
+        httr (>= 1.0.0), ids, jsonlite (>= 1.6), queuer (>= 0.3.0),
+        rematch, storr (>= 1.1.1), xml2 (>= 1.0.0)
+Suggests: R6, callr, knitr, mockery, pkgdepends (>= 0.1.0), redux,
+        rmarkdown, rrq (>= 0.4.3), testthat, withr
+License: MIT + file LICENSE
+MD5sum: dab9582bde634f78f07e0759fdeabd85
+NeedsCompilation: no
+
 Package: queuer
 Version: 0.2.0
 Depends: R (>= 3.2.2)
