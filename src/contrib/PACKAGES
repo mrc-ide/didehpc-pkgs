@@ -134,3 +134,12 @@ Suggests: callr (>= 3.7.0), knitr, mockery, processx, rmarkdown, storr,
 License: MIT + file LICENSE
 MD5sum: 4a83a67ea25f7db1fe11e49334b04f86
 NeedsCompilation: no
+
+Package: rrq
+Version: 0.4.4
+Imports: R6, docopt, ids, openssl, progress, redux (>= 1.0.0)
+Suggests: callr (>= 3.7.0), knitr, markdown, mockery, processx,
+        rmarkdown, storr, testthat, withr
+License: MIT + file LICENSE
+MD5sum: cefb442b197e6a7e839bbf6068ca99a0
+NeedsCompilation: no
